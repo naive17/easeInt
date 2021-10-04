@@ -1,0 +1,25 @@
+{
+  "name": "easeint",
+  "version": "0.0.1",
+  "description": "easily create eased integers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naive17/easeInt.git"
+  },
+  "keywords": [
+    "easing",
+    "tweening",
+    "ease",
+    "tween"
+  ],
+  "author": "naive17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naive17/easeInt/issues"
+  },
+  "homepage": "https://github.com/naive17/easeInt#readme"
+}
